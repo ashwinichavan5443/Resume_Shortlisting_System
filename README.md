@@ -47,5 +47,5 @@ The system will typically provide you with a unique API key that you'll use to a
 Store Your API Key Securely: It's crucial to keep your API key secure. Do not share it in public repositories or with unauthorized individuals. Consider using environment variables or a secure configuration management system to store your API key.
 
 Integrate the API Key: You can now integrate the API key into your applications or scripts to make authenticated requests to OpenAI APIs.
-#ContributorFriendly #DeepLearning #NaturalLanguageProcessing #chatgpt #openAI #API #OpenSource #FirstTimersOnly
+
 
